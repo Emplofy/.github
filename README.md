@@ -1,2 +1,2 @@
-# .github
-Repository for an organization creating neuro-employees by integrating AI with humanoid robots, enhancing productivity and innovation.
+# Emplofy - neuro-employees creation
+The organization specializes in creating neuro-employees by integrating advanced artificial intelligence with humanoid robots. Our mission is to enhance productivity and drive innovation across various industries. We focus on developing cutting-edge technology that combines human-like capabilities with the efficiency and precision of AI, aiming to revolutionize the workforce and redefine the future of work. Through continuous research and development, we strive to provide intelligent solutions that adapt to the evolving needs of businesses and society.
